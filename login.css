@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Saira+Condensed:wght@300;400;600&display=swap');
+
+#título{
+    font-size: 60px;
+    margin-top: 0px;
+    color: rgb(0, 69, 0);
+    text-shadow: 5px 5px rgb(133, 255, 133);
+    text-align: center;
+    margin-bottom: 0px;
+    font-family: 'Saira Condensed', sans-serif;;
+    background-color: rgb(255, 145, 0);
+}
+
+#subtítulo1{
+    font-size: 30px;
+    color: rgb(0, 133, 0);
+    text-shadow: 2px 2px rgb(17, 49, 17);
+    font-family: 'Saira Condensed', sans-serif;
+    background-color: orange;
+    border-radius: 15px;
+    width: 500px;
+    margin-left: 555px;
+    font-weight: bold;
+}
+#subtítulo2{
+    font-size: 30px;
+    color: rgb(0, 133, 0);
+    text-shadow: 2px 2px rgb(17, 49, 17);
+    font-family: 'Saira Condensed', sans-serif;
+    background-color: orange;
+    border-radius: 15px;
+    width: 500px;
+    margin-left: 560px;
+    font-weight: bold;
+}
+#subtítulo3{
+    font-size: 30px;
+    color: rgb(0, 133, 0);
+    text-shadow: 2px 2px rgb(17, 49, 17);
+    font-family: 'Saira Condensed', sans-serif;
+    background-color: orange;
+    border-radius: 15px;
+    width: 500px;
+    margin-left: 485px;
+    font-weight: bold;
+}
+
+body{
+    background-color: rgb(213, 255, 208);
+    margin: 0px;
+    padding: 0px;
+}
+
+.quadro{
+    margin-left: 570px;
+    margin-top: 20px;
+}
+
+#confirmaçao1{
+    margin-left: 575px;
+}
+
